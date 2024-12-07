@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python,Django,React,ReactNative**
 
-- 📫 How to reach me **msahmir732@gmail.com**
+- 📫 How to reach me **mshamir732@gmail.com**
 
 
 <p align="left">
