@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm M-shamir</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Python,Django,React,ReactNative**
+- 🌱 I’m currently working with **Python, JavaScript, Go, React, Next.js, Django, FastAPI, Node.js, PostgreSQL, MongoDB, AWS, and Cybersecurity**
+
 
 - 📫 How to reach me **mshamir732@gmail.com**
 
